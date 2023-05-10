@@ -1,0 +1,15 @@
+D:\gitt\main\classlab\lab4delegate\bin\Debug\net7.0\lab4delegate.exe
+D:\gitt\main\classlab\lab4delegate\bin\Debug\net7.0\lab4delegate.deps.json
+D:\gitt\main\classlab\lab4delegate\bin\Debug\net7.0\lab4delegate.runtimeconfig.json
+D:\gitt\main\classlab\lab4delegate\bin\Debug\net7.0\lab4delegate.dll
+D:\gitt\main\classlab\lab4delegate\bin\Debug\net7.0\lab4delegate.pdb
+D:\gitt\main\classlab\lab4delegate\obj\Debug\net7.0\lab4delegate.csproj.AssemblyReference.cache
+D:\gitt\main\classlab\lab4delegate\obj\Debug\net7.0\lab4delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitt\main\classlab\lab4delegate\obj\Debug\net7.0\lab4delegate.AssemblyInfoInputs.cache
+D:\gitt\main\classlab\lab4delegate\obj\Debug\net7.0\lab4delegate.AssemblyInfo.cs
+D:\gitt\main\classlab\lab4delegate\obj\Debug\net7.0\lab4delegate.csproj.CoreCompileInputs.cache
+D:\gitt\main\classlab\lab4delegate\obj\Debug\net7.0\lab4delegate.dll
+D:\gitt\main\classlab\lab4delegate\obj\Debug\net7.0\refint\lab4delegate.dll
+D:\gitt\main\classlab\lab4delegate\obj\Debug\net7.0\lab4delegate.pdb
+D:\gitt\main\classlab\lab4delegate\obj\Debug\net7.0\lab4delegate.genruntimeconfig.cache
+D:\gitt\main\classlab\lab4delegate\obj\Debug\net7.0\ref\lab4delegate.dll
