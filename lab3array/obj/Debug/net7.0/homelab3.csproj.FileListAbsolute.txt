@@ -1,0 +1,15 @@
+D:\gitt\prima\home\homelab3\bin\Debug\net7.0\homelab3.exe
+D:\gitt\prima\home\homelab3\bin\Debug\net7.0\homelab3.deps.json
+D:\gitt\prima\home\homelab3\bin\Debug\net7.0\homelab3.runtimeconfig.json
+D:\gitt\prima\home\homelab3\bin\Debug\net7.0\homelab3.dll
+D:\gitt\prima\home\homelab3\bin\Debug\net7.0\homelab3.pdb
+D:\gitt\prima\home\homelab3\obj\Debug\net7.0\homelab3.csproj.AssemblyReference.cache
+D:\gitt\prima\home\homelab3\obj\Debug\net7.0\homelab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitt\prima\home\homelab3\obj\Debug\net7.0\homelab3.AssemblyInfoInputs.cache
+D:\gitt\prima\home\homelab3\obj\Debug\net7.0\homelab3.AssemblyInfo.cs
+D:\gitt\prima\home\homelab3\obj\Debug\net7.0\homelab3.csproj.CoreCompileInputs.cache
+D:\gitt\prima\home\homelab3\obj\Debug\net7.0\homelab3.dll
+D:\gitt\prima\home\homelab3\obj\Debug\net7.0\refint\homelab3.dll
+D:\gitt\prima\home\homelab3\obj\Debug\net7.0\homelab3.pdb
+D:\gitt\prima\home\homelab3\obj\Debug\net7.0\homelab3.genruntimeconfig.cache
+D:\gitt\prima\home\homelab3\obj\Debug\net7.0\ref\homelab3.dll

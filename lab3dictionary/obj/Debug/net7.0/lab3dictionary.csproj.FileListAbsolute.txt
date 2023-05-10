@@ -1,0 +1,15 @@
+D:\gitt\main\Classlab\lab3\lab3dictionary\bin\Debug\net7.0\lab3dictionary.exe
+D:\gitt\main\Classlab\lab3\lab3dictionary\bin\Debug\net7.0\lab3dictionary.deps.json
+D:\gitt\main\Classlab\lab3\lab3dictionary\bin\Debug\net7.0\lab3dictionary.runtimeconfig.json
+D:\gitt\main\Classlab\lab3\lab3dictionary\bin\Debug\net7.0\lab3dictionary.dll
+D:\gitt\main\Classlab\lab3\lab3dictionary\bin\Debug\net7.0\lab3dictionary.pdb
+D:\gitt\main\Classlab\lab3\lab3dictionary\obj\Debug\net7.0\lab3dictionary.csproj.AssemblyReference.cache
+D:\gitt\main\Classlab\lab3\lab3dictionary\obj\Debug\net7.0\lab3dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitt\main\Classlab\lab3\lab3dictionary\obj\Debug\net7.0\lab3dictionary.AssemblyInfoInputs.cache
+D:\gitt\main\Classlab\lab3\lab3dictionary\obj\Debug\net7.0\lab3dictionary.AssemblyInfo.cs
+D:\gitt\main\Classlab\lab3\lab3dictionary\obj\Debug\net7.0\lab3dictionary.csproj.CoreCompileInputs.cache
+D:\gitt\main\Classlab\lab3\lab3dictionary\obj\Debug\net7.0\lab3dictionary.dll
+D:\gitt\main\Classlab\lab3\lab3dictionary\obj\Debug\net7.0\refint\lab3dictionary.dll
+D:\gitt\main\Classlab\lab3\lab3dictionary\obj\Debug\net7.0\lab3dictionary.pdb
+D:\gitt\main\Classlab\lab3\lab3dictionary\obj\Debug\net7.0\lab3dictionary.genruntimeconfig.cache
+D:\gitt\main\Classlab\lab3\lab3dictionary\obj\Debug\net7.0\ref\lab3dictionary.dll
