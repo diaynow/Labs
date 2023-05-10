@@ -1,0 +1,15 @@
+D:\gitt\main\classlab\lab5delegatelymbda\bin\Debug\net7.0\lab5delegatelymbda.exe
+D:\gitt\main\classlab\lab5delegatelymbda\bin\Debug\net7.0\lab5delegatelymbda.deps.json
+D:\gitt\main\classlab\lab5delegatelymbda\bin\Debug\net7.0\lab5delegatelymbda.runtimeconfig.json
+D:\gitt\main\classlab\lab5delegatelymbda\bin\Debug\net7.0\lab5delegatelymbda.dll
+D:\gitt\main\classlab\lab5delegatelymbda\bin\Debug\net7.0\lab5delegatelymbda.pdb
+D:\gitt\main\classlab\lab5delegatelymbda\obj\Debug\net7.0\lab5delegatelymbda.csproj.AssemblyReference.cache
+D:\gitt\main\classlab\lab5delegatelymbda\obj\Debug\net7.0\lab5delegatelymbda.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitt\main\classlab\lab5delegatelymbda\obj\Debug\net7.0\lab5delegatelymbda.AssemblyInfoInputs.cache
+D:\gitt\main\classlab\lab5delegatelymbda\obj\Debug\net7.0\lab5delegatelymbda.AssemblyInfo.cs
+D:\gitt\main\classlab\lab5delegatelymbda\obj\Debug\net7.0\lab5delegatelymbda.csproj.CoreCompileInputs.cache
+D:\gitt\main\classlab\lab5delegatelymbda\obj\Debug\net7.0\lab5delegatelymbda.dll
+D:\gitt\main\classlab\lab5delegatelymbda\obj\Debug\net7.0\refint\lab5delegatelymbda.dll
+D:\gitt\main\classlab\lab5delegatelymbda\obj\Debug\net7.0\lab5delegatelymbda.pdb
+D:\gitt\main\classlab\lab5delegatelymbda\obj\Debug\net7.0\lab5delegatelymbda.genruntimeconfig.cache
+D:\gitt\main\classlab\lab5delegatelymbda\obj\Debug\net7.0\ref\lab5delegatelymbda.dll
