@@ -1,0 +1,15 @@
+D:\gitt\main\Classlab\lab3queue\bin\Debug\net7.0\lab3queue.exe
+D:\gitt\main\Classlab\lab3queue\bin\Debug\net7.0\lab3queue.deps.json
+D:\gitt\main\Classlab\lab3queue\bin\Debug\net7.0\lab3queue.runtimeconfig.json
+D:\gitt\main\Classlab\lab3queue\bin\Debug\net7.0\lab3queue.dll
+D:\gitt\main\Classlab\lab3queue\bin\Debug\net7.0\lab3queue.pdb
+D:\gitt\main\Classlab\lab3queue\obj\Debug\net7.0\lab3queue.csproj.AssemblyReference.cache
+D:\gitt\main\Classlab\lab3queue\obj\Debug\net7.0\lab3queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitt\main\Classlab\lab3queue\obj\Debug\net7.0\lab3queue.AssemblyInfoInputs.cache
+D:\gitt\main\Classlab\lab3queue\obj\Debug\net7.0\lab3queue.AssemblyInfo.cs
+D:\gitt\main\Classlab\lab3queue\obj\Debug\net7.0\lab3queue.csproj.CoreCompileInputs.cache
+D:\gitt\main\Classlab\lab3queue\obj\Debug\net7.0\lab3queue.dll
+D:\gitt\main\Classlab\lab3queue\obj\Debug\net7.0\refint\lab3queue.dll
+D:\gitt\main\Classlab\lab3queue\obj\Debug\net7.0\lab3queue.pdb
+D:\gitt\main\Classlab\lab3queue\obj\Debug\net7.0\lab3queue.genruntimeconfig.cache
+D:\gitt\main\Classlab\lab3queue\obj\Debug\net7.0\ref\lab3queue.dll

@@ -1,0 +1,15 @@
+D:\gitt\main\Classlab\lab3sortedlist\bin\Debug\net7.0\lab3sortedlist.exe
+D:\gitt\main\Classlab\lab3sortedlist\bin\Debug\net7.0\lab3sortedlist.deps.json
+D:\gitt\main\Classlab\lab3sortedlist\bin\Debug\net7.0\lab3sortedlist.runtimeconfig.json
+D:\gitt\main\Classlab\lab3sortedlist\bin\Debug\net7.0\lab3sortedlist.dll
+D:\gitt\main\Classlab\lab3sortedlist\bin\Debug\net7.0\lab3sortedlist.pdb
+D:\gitt\main\Classlab\lab3sortedlist\obj\Debug\net7.0\lab3sortedlist.csproj.AssemblyReference.cache
+D:\gitt\main\Classlab\lab3sortedlist\obj\Debug\net7.0\lab3sortedlist.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitt\main\Classlab\lab3sortedlist\obj\Debug\net7.0\lab3sortedlist.AssemblyInfoInputs.cache
+D:\gitt\main\Classlab\lab3sortedlist\obj\Debug\net7.0\lab3sortedlist.AssemblyInfo.cs
+D:\gitt\main\Classlab\lab3sortedlist\obj\Debug\net7.0\lab3sortedlist.csproj.CoreCompileInputs.cache
+D:\gitt\main\Classlab\lab3sortedlist\obj\Debug\net7.0\lab3sortedlist.dll
+D:\gitt\main\Classlab\lab3sortedlist\obj\Debug\net7.0\refint\lab3sortedlist.dll
+D:\gitt\main\Classlab\lab3sortedlist\obj\Debug\net7.0\lab3sortedlist.pdb
+D:\gitt\main\Classlab\lab3sortedlist\obj\Debug\net7.0\lab3sortedlist.genruntimeconfig.cache
+D:\gitt\main\Classlab\lab3sortedlist\obj\Debug\net7.0\ref\lab3sortedlist.dll
