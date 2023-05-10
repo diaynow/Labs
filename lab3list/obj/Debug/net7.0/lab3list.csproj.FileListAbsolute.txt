@@ -1,0 +1,15 @@
+D:\gitt\main\Classlab\lab3list\bin\Debug\net7.0\lab3list.exe
+D:\gitt\main\Classlab\lab3list\bin\Debug\net7.0\lab3list.deps.json
+D:\gitt\main\Classlab\lab3list\bin\Debug\net7.0\lab3list.runtimeconfig.json
+D:\gitt\main\Classlab\lab3list\bin\Debug\net7.0\lab3list.dll
+D:\gitt\main\Classlab\lab3list\bin\Debug\net7.0\lab3list.pdb
+D:\gitt\main\Classlab\lab3list\obj\Debug\net7.0\lab3list.csproj.AssemblyReference.cache
+D:\gitt\main\Classlab\lab3list\obj\Debug\net7.0\lab3list.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitt\main\Classlab\lab3list\obj\Debug\net7.0\lab3list.AssemblyInfoInputs.cache
+D:\gitt\main\Classlab\lab3list\obj\Debug\net7.0\lab3list.AssemblyInfo.cs
+D:\gitt\main\Classlab\lab3list\obj\Debug\net7.0\lab3list.csproj.CoreCompileInputs.cache
+D:\gitt\main\Classlab\lab3list\obj\Debug\net7.0\lab3list.dll
+D:\gitt\main\Classlab\lab3list\obj\Debug\net7.0\refint\lab3list.dll
+D:\gitt\main\Classlab\lab3list\obj\Debug\net7.0\lab3list.pdb
+D:\gitt\main\Classlab\lab3list\obj\Debug\net7.0\lab3list.genruntimeconfig.cache
+D:\gitt\main\Classlab\lab3list\obj\Debug\net7.0\ref\lab3list.dll

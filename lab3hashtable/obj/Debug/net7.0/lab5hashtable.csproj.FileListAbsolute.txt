@@ -1,0 +1,15 @@
+D:\gitt\main\Classlab\lab4hashtable\obj\Debug\net7.0\lab5hashtable.csproj.AssemblyReference.cache
+D:\gitt\main\Classlab\lab4hashtable\obj\Debug\net7.0\lab5hashtable.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitt\main\Classlab\lab4hashtable\obj\Debug\net7.0\lab5hashtable.AssemblyInfoInputs.cache
+D:\gitt\main\Classlab\lab4hashtable\obj\Debug\net7.0\lab5hashtable.AssemblyInfo.cs
+D:\gitt\main\Classlab\lab4hashtable\obj\Debug\net7.0\lab5hashtable.csproj.CoreCompileInputs.cache
+D:\gitt\main\Classlab\lab4hashtable\bin\Debug\net7.0\lab5hashtable.exe
+D:\gitt\main\Classlab\lab4hashtable\bin\Debug\net7.0\lab5hashtable.deps.json
+D:\gitt\main\Classlab\lab4hashtable\bin\Debug\net7.0\lab5hashtable.runtimeconfig.json
+D:\gitt\main\Classlab\lab4hashtable\bin\Debug\net7.0\lab5hashtable.dll
+D:\gitt\main\Classlab\lab4hashtable\bin\Debug\net7.0\lab5hashtable.pdb
+D:\gitt\main\Classlab\lab4hashtable\obj\Debug\net7.0\lab5hashtable.dll
+D:\gitt\main\Classlab\lab4hashtable\obj\Debug\net7.0\refint\lab5hashtable.dll
+D:\gitt\main\Classlab\lab4hashtable\obj\Debug\net7.0\lab5hashtable.pdb
+D:\gitt\main\Classlab\lab4hashtable\obj\Debug\net7.0\lab5hashtable.genruntimeconfig.cache
+D:\gitt\main\Classlab\lab4hashtable\obj\Debug\net7.0\ref\lab5hashtable.dll
