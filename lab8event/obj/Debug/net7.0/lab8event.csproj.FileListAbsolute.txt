@@ -1,0 +1,15 @@
+D:\gitt\main\Classlab\lab8event\bin\Debug\net7.0\lab8event.exe
+D:\gitt\main\Classlab\lab8event\bin\Debug\net7.0\lab8event.deps.json
+D:\gitt\main\Classlab\lab8event\bin\Debug\net7.0\lab8event.runtimeconfig.json
+D:\gitt\main\Classlab\lab8event\bin\Debug\net7.0\lab8event.dll
+D:\gitt\main\Classlab\lab8event\bin\Debug\net7.0\lab8event.pdb
+D:\gitt\main\Classlab\lab8event\obj\Debug\net7.0\lab8event.csproj.AssemblyReference.cache
+D:\gitt\main\Classlab\lab8event\obj\Debug\net7.0\lab8event.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitt\main\Classlab\lab8event\obj\Debug\net7.0\lab8event.AssemblyInfoInputs.cache
+D:\gitt\main\Classlab\lab8event\obj\Debug\net7.0\lab8event.AssemblyInfo.cs
+D:\gitt\main\Classlab\lab8event\obj\Debug\net7.0\lab8event.csproj.CoreCompileInputs.cache
+D:\gitt\main\Classlab\lab8event\obj\Debug\net7.0\lab8event.dll
+D:\gitt\main\Classlab\lab8event\obj\Debug\net7.0\refint\lab8event.dll
+D:\gitt\main\Classlab\lab8event\obj\Debug\net7.0\lab8event.pdb
+D:\gitt\main\Classlab\lab8event\obj\Debug\net7.0\lab8event.genruntimeconfig.cache
+D:\gitt\main\Classlab\lab8event\obj\Debug\net7.0\ref\lab8event.dll

@@ -1,0 +1,15 @@
+D:\gitt\main\Classlab\lab7delegateclass\bin\Debug\net7.0\lab7delegateclass.exe
+D:\gitt\main\Classlab\lab7delegateclass\bin\Debug\net7.0\lab7delegateclass.deps.json
+D:\gitt\main\Classlab\lab7delegateclass\bin\Debug\net7.0\lab7delegateclass.runtimeconfig.json
+D:\gitt\main\Classlab\lab7delegateclass\bin\Debug\net7.0\lab7delegateclass.dll
+D:\gitt\main\Classlab\lab7delegateclass\bin\Debug\net7.0\lab7delegateclass.pdb
+D:\gitt\main\Classlab\lab7delegateclass\obj\Debug\net7.0\lab7delegateclass.csproj.AssemblyReference.cache
+D:\gitt\main\Classlab\lab7delegateclass\obj\Debug\net7.0\lab7delegateclass.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitt\main\Classlab\lab7delegateclass\obj\Debug\net7.0\lab7delegateclass.AssemblyInfoInputs.cache
+D:\gitt\main\Classlab\lab7delegateclass\obj\Debug\net7.0\lab7delegateclass.AssemblyInfo.cs
+D:\gitt\main\Classlab\lab7delegateclass\obj\Debug\net7.0\lab7delegateclass.csproj.CoreCompileInputs.cache
+D:\gitt\main\Classlab\lab7delegateclass\obj\Debug\net7.0\lab7delegateclass.dll
+D:\gitt\main\Classlab\lab7delegateclass\obj\Debug\net7.0\refint\lab7delegateclass.dll
+D:\gitt\main\Classlab\lab7delegateclass\obj\Debug\net7.0\lab7delegateclass.pdb
+D:\gitt\main\Classlab\lab7delegateclass\obj\Debug\net7.0\lab7delegateclass.genruntimeconfig.cache
+D:\gitt\main\Classlab\lab7delegateclass\obj\Debug\net7.0\ref\lab7delegateclass.dll
