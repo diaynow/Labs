@@ -1,0 +1,15 @@
+D:\gitt\main\Classlab\lab10\obj\Debug\net7.0\lab10.csproj.AssemblyReference.cache
+D:\gitt\main\Classlab\lab10\obj\Debug\net7.0\lab10.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitt\main\Classlab\lab10\obj\Debug\net7.0\lab10.AssemblyInfoInputs.cache
+D:\gitt\main\Classlab\lab10\obj\Debug\net7.0\lab10.AssemblyInfo.cs
+D:\gitt\main\Classlab\lab10\obj\Debug\net7.0\lab10.csproj.CoreCompileInputs.cache
+D:\gitt\main\Classlab\lab10\bin\Debug\net7.0\lab10.exe
+D:\gitt\main\Classlab\lab10\bin\Debug\net7.0\lab10.deps.json
+D:\gitt\main\Classlab\lab10\bin\Debug\net7.0\lab10.runtimeconfig.json
+D:\gitt\main\Classlab\lab10\bin\Debug\net7.0\lab10.dll
+D:\gitt\main\Classlab\lab10\bin\Debug\net7.0\lab10.pdb
+D:\gitt\main\Classlab\lab10\obj\Debug\net7.0\lab10.dll
+D:\gitt\main\Classlab\lab10\obj\Debug\net7.0\refint\lab10.dll
+D:\gitt\main\Classlab\lab10\obj\Debug\net7.0\lab10.pdb
+D:\gitt\main\Classlab\lab10\obj\Debug\net7.0\lab10.genruntimeconfig.cache
+D:\gitt\main\Classlab\lab10\obj\Debug\net7.0\ref\lab10.dll
