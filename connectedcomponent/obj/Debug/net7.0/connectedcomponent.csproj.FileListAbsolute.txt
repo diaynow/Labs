@@ -1,0 +1,15 @@
+D:\gitt\main\Dmath\connectedcomponent\bin\Debug\net7.0\connectedcomponent.exe
+D:\gitt\main\Dmath\connectedcomponent\bin\Debug\net7.0\connectedcomponent.deps.json
+D:\gitt\main\Dmath\connectedcomponent\bin\Debug\net7.0\connectedcomponent.runtimeconfig.json
+D:\gitt\main\Dmath\connectedcomponent\bin\Debug\net7.0\connectedcomponent.dll
+D:\gitt\main\Dmath\connectedcomponent\bin\Debug\net7.0\connectedcomponent.pdb
+D:\gitt\main\Dmath\connectedcomponent\obj\Debug\net7.0\connectedcomponent.csproj.AssemblyReference.cache
+D:\gitt\main\Dmath\connectedcomponent\obj\Debug\net7.0\connectedcomponent.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitt\main\Dmath\connectedcomponent\obj\Debug\net7.0\connectedcomponent.AssemblyInfoInputs.cache
+D:\gitt\main\Dmath\connectedcomponent\obj\Debug\net7.0\connectedcomponent.AssemblyInfo.cs
+D:\gitt\main\Dmath\connectedcomponent\obj\Debug\net7.0\connectedcomponent.csproj.CoreCompileInputs.cache
+D:\gitt\main\Dmath\connectedcomponent\obj\Debug\net7.0\connectedcomponent.dll
+D:\gitt\main\Dmath\connectedcomponent\obj\Debug\net7.0\refint\connectedcomponent.dll
+D:\gitt\main\Dmath\connectedcomponent\obj\Debug\net7.0\connectedcomponent.pdb
+D:\gitt\main\Dmath\connectedcomponent\obj\Debug\net7.0\connectedcomponent.genruntimeconfig.cache
+D:\gitt\main\Dmath\connectedcomponent\obj\Debug\net7.0\ref\connectedcomponent.dll
