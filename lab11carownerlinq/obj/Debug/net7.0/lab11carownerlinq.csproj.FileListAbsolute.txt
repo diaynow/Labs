@@ -1,0 +1,15 @@
+D:\gitt\main\Classlab\lab11carownerlinq\bin\Debug\net7.0\lab11carownerlinq.exe
+D:\gitt\main\Classlab\lab11carownerlinq\bin\Debug\net7.0\lab11carownerlinq.deps.json
+D:\gitt\main\Classlab\lab11carownerlinq\bin\Debug\net7.0\lab11carownerlinq.runtimeconfig.json
+D:\gitt\main\Classlab\lab11carownerlinq\bin\Debug\net7.0\lab11carownerlinq.dll
+D:\gitt\main\Classlab\lab11carownerlinq\bin\Debug\net7.0\lab11carownerlinq.pdb
+D:\gitt\main\Classlab\lab11carownerlinq\obj\Debug\net7.0\lab11carownerlinq.csproj.AssemblyReference.cache
+D:\gitt\main\Classlab\lab11carownerlinq\obj\Debug\net7.0\lab11carownerlinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitt\main\Classlab\lab11carownerlinq\obj\Debug\net7.0\lab11carownerlinq.AssemblyInfoInputs.cache
+D:\gitt\main\Classlab\lab11carownerlinq\obj\Debug\net7.0\lab11carownerlinq.AssemblyInfo.cs
+D:\gitt\main\Classlab\lab11carownerlinq\obj\Debug\net7.0\lab11carownerlinq.csproj.CoreCompileInputs.cache
+D:\gitt\main\Classlab\lab11carownerlinq\obj\Debug\net7.0\lab11carownerlinq.dll
+D:\gitt\main\Classlab\lab11carownerlinq\obj\Debug\net7.0\refint\lab11carownerlinq.dll
+D:\gitt\main\Classlab\lab11carownerlinq\obj\Debug\net7.0\lab11carownerlinq.pdb
+D:\gitt\main\Classlab\lab11carownerlinq\obj\Debug\net7.0\lab11carownerlinq.genruntimeconfig.cache
+D:\gitt\main\Classlab\lab11carownerlinq\obj\Debug\net7.0\ref\lab11carownerlinq.dll
