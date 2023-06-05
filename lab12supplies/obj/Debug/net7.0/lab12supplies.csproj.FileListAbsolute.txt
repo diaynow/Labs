@@ -1,0 +1,15 @@
+D:\gitt\main\Classlab\lab12supplies\bin\Debug\net7.0\lab12supplies.exe
+D:\gitt\main\Classlab\lab12supplies\bin\Debug\net7.0\lab12supplies.deps.json
+D:\gitt\main\Classlab\lab12supplies\bin\Debug\net7.0\lab12supplies.runtimeconfig.json
+D:\gitt\main\Classlab\lab12supplies\bin\Debug\net7.0\lab12supplies.dll
+D:\gitt\main\Classlab\lab12supplies\bin\Debug\net7.0\lab12supplies.pdb
+D:\gitt\main\Classlab\lab12supplies\obj\Debug\net7.0\lab12supplies.csproj.AssemblyReference.cache
+D:\gitt\main\Classlab\lab12supplies\obj\Debug\net7.0\lab12supplies.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitt\main\Classlab\lab12supplies\obj\Debug\net7.0\lab12supplies.AssemblyInfoInputs.cache
+D:\gitt\main\Classlab\lab12supplies\obj\Debug\net7.0\lab12supplies.AssemblyInfo.cs
+D:\gitt\main\Classlab\lab12supplies\obj\Debug\net7.0\lab12supplies.csproj.CoreCompileInputs.cache
+D:\gitt\main\Classlab\lab12supplies\obj\Debug\net7.0\lab12supplies.dll
+D:\gitt\main\Classlab\lab12supplies\obj\Debug\net7.0\refint\lab12supplies.dll
+D:\gitt\main\Classlab\lab12supplies\obj\Debug\net7.0\lab12supplies.pdb
+D:\gitt\main\Classlab\lab12supplies\obj\Debug\net7.0\lab12supplies.genruntimeconfig.cache
+D:\gitt\main\Classlab\lab12supplies\obj\Debug\net7.0\ref\lab12supplies.dll
